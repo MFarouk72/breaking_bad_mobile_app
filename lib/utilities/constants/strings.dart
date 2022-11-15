@@ -1,0 +1,16 @@
+const String baseUrl = "https://www.breakingbadapi.com/api/";
+const String charactersScreen = '/';
+const String characterDetailsScreen = '/character_details';
+const String characters = 'Characters';
+const String cannotConnectToInternet = 'Can`t Connect To Internet....Check Your Connection.';
+const String noInternetImage = 'assets/images/noInternet.png';
+const String loadingImage = 'assets/images/loading.gif';
+const String placeholderImage = 'assets/images/placeholder.png';
+const String personPlaceholderImage = 'assets/images/person_placeholder.jpg';
+const String job = "Job: ";
+const String appearedIn = "Appeared In: ";
+const String seasons = "Seasons: ";
+const String status = "Status: ";
+const String betterCallSualSeasons = "Better call Sual seasons: ";
+const String actorActress = "Actor / Actress: ";
+const String findACharacter = 'Find a character...';
